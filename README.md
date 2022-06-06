@@ -1,2 +1,2 @@
 # File-Manager
-rsschool tsdk
+rsschool task
