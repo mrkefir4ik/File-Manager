@@ -1,0 +1,24 @@
+{
+  "name": "file-manager",
+  "type": "module",
+  "version": "1.0.0",
+  "description": " File Manager using Node.js APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkefir4ik/File-Manager.git"
+  },
+  "keywords": [
+    "rsschool"
+  ],
+  "author": "Daniil Aharodnikau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkefir4ik/File-Manager/issues"
+  },
+  "homepage": "https://github.com/mrkefir4ik/File-Manager#readme"
+}
